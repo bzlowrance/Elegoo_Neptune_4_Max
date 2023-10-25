@@ -1,3 +1,10 @@
+Hey I'm not sure where the latest update came from but I found a later release here.
+https://github.com/eafq78/Neptune-4MAX
+
+1.2.2.39
+and 
+1.2.2.11
+
 # Elegoo_Neptune_4_Max
 
 Firmware update files for the Elegoo Neptune 4 Max provided to MandicReally by Elegoo.
